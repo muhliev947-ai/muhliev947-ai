@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Mukhammad 👋
 
-<!--
-**muhliev947-ai/muhliev947-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Frontend Developer** focused on building clean, real-world web apps.
 
-Here are some ideas to get you started:
+- 🔭 I’m working on: React apps, UI experiments, and small products.
+- 🌱 Learning: React, TypeScript, PostgreSQL.
+- 🎯 Goal: Become a strong frontend dev ready for real projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech stack
+
+- **Languages:** JavaScript, SQL
+- **Frontend:** React, HTML, CSS, Tawlind
+- **Tools:** Git, VS Code, Linux
+
+## Projects
+
+- 🎬 Movie App – React app with filtering and API.
+- ✅ To-Do App – Clean UI, animations, and state logic.
+- 🧮 Calculator – Pure JS, modular architecture.
+
+More coming soon...
