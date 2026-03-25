@@ -1,21 +1,25 @@
-# Hi, I'm Mukhammad 👋
+📝 Todo‑List App
 
-**Frontend Developer** focused on building clean, real-world web apps.
+Минималистичное и удобное приложение для управления задачами.  
+Создано с упором на чистый UI, плавные анимации и продуманную логику состояния.
+🚀 Функциональность
 
-- 🔭 I’m working on: React apps, UI experiments, and small products.
-- 🌱 Learning: React, TypeScript, PostgreSQL.
-- 🎯 Goal: Become a strong frontend dev ready for real projects.
+    ➕ Добавление задач
 
-## Tech stack
+    ✏️ Редактирование
 
-- **Languages:** JavaScript, SQL
-- **Frontend:** React, HTML, CSS, Tawlind
-- **Tools:** Git, VS Code, Linux
+    ✔️ Отметка выполненных
 
-## Projects
+    🗑️ Удаление
 
-- 🎬 Movie App – React app with filtering and API.
-- ✅ To-Do App – Clean UI, animations, and state logic.
-- 🧮 Calculator – Pure JS, modular architecture.
+    🔍 Фильтрация по статусу
 
-More coming soon...
+    💾 Локальное сохранение (LocalStorage)
+
+🛠️ Технологии
+
+    Frontend: React, CSS / Tailwind
+
+    Язык: JavaScript
+
+    Инструменты: Git, VS Code, Linu
